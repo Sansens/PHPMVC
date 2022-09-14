@@ -94,12 +94,12 @@
             <div class="card p-3 py-4">
                 
                 <div class="text-center">
-                    <img src="img/pap1.jpeg" width="100" class="rounded-circle">
+                    <img src="img/opahkece.jpg" width="100" class="rounded-circle">
                 </div>
 
                 <div class="text-center mt-3">
                     <h5 class="mt-2 mb-0">
-                        <!-- Muh. Zaitun Rohmat Sanjaya -->
+                        Muh. Zaitun Rohmat Sanjaya
                     </h5>
                     <!-- <span>kelas:XII RPL C , umur:15 , Alamat Rumah:Sumbergedong</span> -->
                     <p>
